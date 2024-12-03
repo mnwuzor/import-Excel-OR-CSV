@@ -57,4 +57,14 @@ This script will help you import either Excel or CSV records into your applicati
 ~~~
 Watch the YouTube video on how to setup the script. 
 
+<div align="center">
+      <a href="https://www.youtube.com/watch?v=9WcLUDgACNo">
+     <img 
+      src="https://img.youtube.com/vi/9WcLUDgACNo/0.jpg" 
+      alt="Import Excel OR CSV records with date into MySQL using PHP" 
+      style="width:100%;">
+      </a>
+    </div>
+
+
 Credit to Funda of Web IT (https://www.fundaofwebit.com/php/import-excel-file-into-mysql-database-in-php#google_vignette) from whose site I saw this plugin and the code he write.
